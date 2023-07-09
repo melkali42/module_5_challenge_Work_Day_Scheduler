@@ -29,9 +29,9 @@ I used HTML, CSS, JavaScript for this challenge. I also used https://day.js.org/
 
 ## Usage
 
-This is the URl for the deployed application: 
+This is the URl for the deployed application: https://melkali42.github.io/module_5_challenge_Work_Day_Scheduler/
 
-This is the URL for my GitHub repository for this challenge: 
+This is the URL for my GitHub repository for this challenge: https://github.com/melkali42/module_5_challenge_Work_Day_Scheduler
 
 
 ![Sceenshot1](https://github.com/melkali42/module_5_challenge_Work_Day_Scheduler/blob/main/Assets/images/Work%20scheduler.PNG)
