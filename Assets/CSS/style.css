@@ -1,0 +1,121 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  background-size: cover;
+  background-image: url("assets/FreeDiving_Cyprus.jpg");
+  text-align: center;
+  background-color: transparent;
+  color: #ffffff; 
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.description {
+  white-space: pre-wrap;
+}
+
+.time-block {
+  border-radius: 15px;
+}
+
+.row {
+  border-top: 1px solid rgb(255, 255, 255);
+} */
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color light blue;
+}
+
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+.future {
+  background-color: #77dd77;
+  color: white;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06aed5;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+.hour-8{
+  background-color: blueviolet;
+  color:blueviolet
+}
+
+.hour-9{
+  background-color: blueviolet;
+  color:blueviolet
+}
+
+.hour-10{
+  background-color: dodgerblue;
+  color: dodgerblue;
+}
+
+.hour-11{
+  background-color: dodgerblue;
+  color: dodgerblue;
+}
+
+.hour-12{
+  background-color: dodgerblue;
+  color: dodgerblue;
+}
+
+.hour-1{
+  background-color: dodgerblue;
+  color: dodgerblue;
+}
+
+.hour-2{
+  background-color: dodgerblue;
+  color: dodgerblue;
+}
+
+.hour-3{
+  background-color: gray;
+  color: gray;
+}
+
+.hour-4{
+  background-color: gray;
+  color: gray;
+}
+
+.hour-5{
+  background-color: gray;
+  color: gray;
+}
+
+
